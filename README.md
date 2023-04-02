@@ -1,14 +1,26 @@
 ### Hi there 👋
 
-**arthurcluet/arthurcluet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### Programming skills 🛠
+
+- Languages : Python, JavaScript, C++, C#, Java, VBA, R
+- Frameworks/librairies: React, Numpy, Pandas, JQuery
+- Databases: SQL, NoSQL, MongoDB
+- Text formatting: LaTeX, Markdown
+- Other: Git, Linux
+
+### Projects 🌟
+
+
+1. [**Web Scraping Project**](https://github.com/arthurcluet/webscraping-project) - Web scraping and data visualization using Linux, Python, Dash library and CSS.
+2. [**C# Minesweeper**](https://github.com/arthurcluet/Minesweeper) - C# implementation of the minesweeper game.
+3. [**Images Editing Project**](https://github.com/arthurcluet/Images-Editing-Project) - Second year academic project in C# including image editing in Bitmap format, and the creation of QR codes containing text or a URL.
+
+All my programming projects can be found in the `Repositories` tab above.
+
+### Contact 📬
+
+- 📧 Adresse e-mail : [a.cluet@live.fr](mailto:a.cluet@live.fr)
+- 💼 LinkedIn : [linkedin.com/in/arthur-cluet](https://www.linkedin.com/in/arthur-cluet/)
