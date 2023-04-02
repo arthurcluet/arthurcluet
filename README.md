@@ -22,5 +22,5 @@ All my programming projects can be found in the `Repositories` tab above.
 
 ### Contact 📬
 
-- 📧 Adresse e-mail : [a.cluet@live.fr](mailto:a.cluet@live.fr)
-- 💼 LinkedIn : [linkedin.com/in/arthur-cluet](https://www.linkedin.com/in/arthur-cluet/)
+- 📧 Email address: [a.cluet@live.fr](mailto:a.cluet@live.fr)
+- 💼 LinkedIn: [linkedin.com/in/arthur-cluet](https://www.linkedin.com/in/arthur-cluet/)
