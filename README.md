@@ -12,9 +12,9 @@
 ### Projects 🌟
 
 
-1. [**Web Scraping Project**](https://github.com/arthurcluet/webscraping-project) - Web scraping and data visualization using Linux, Python, Dash library and CSS.
-2. [**C# Minesweeper**](https://github.com/arthurcluet/Minesweeper) - C# implementation of the minesweeper game.
-3. [**Images Editing Project**](https://github.com/arthurcluet/Images-Editing-Project) - Second year academic project in C# including image editing in Bitmap format, and the creation of QR codes containing text or a URL.
+- [**Web Scraping Project**](https://github.com/arthurcluet/webscraping-project) - Web scraping and data visualization using Linux, Python, Dash library and CSS.
+- [**C# Minesweeper**](https://github.com/arthurcluet/minesweeper) - C# implementation of the minesweeper game.
+- [**Images Editing Project**](https://github.com/arthurcluet/images-editing-project) - Second year academic project in C# including image editing in Bitmap format, and the creation of QR codes containing text or a URL.
 
 All my programming projects can be found in the `Repositories` tab above.
 
