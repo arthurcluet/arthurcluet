@@ -17,7 +17,7 @@ My name is Arthur Cluet and I am a student in an engineering school [(ESILV)](ht
 |      | Project                       | Description |
 | ------------ | ----------------------------- | ------------------------------------------------------------------------------ |
 | `Python` `Shell` | [Web Scraping & Data reporting](https://github.com/arthurcluet/webscraping-project) | Web scraping and data visualization using Linux, Python, Dash library and CSS. |
-| `C++` | [Option Pricer](https://github.com/arthurcluet/options-pricer) | Object-oriented option pricer (Black-Scholes/CRR model implementation) |
+| `C++` | [Option Pricer](https://github.com/arthurcluet/options-pricer) | Object-oriented option pricer (Black-Scholes/CRR model implementation). |
 | `C#` | [Minesweeper](https://github.com/arthurcluet/minesweeper) | C# implementation of the minesweeper game. |
 | `C#` | [Images Editing](https://github.com/arthurcluet/images-editing-project) | Second year academic project in C# including image editing in Bitmap format, and the creation of QR codes containing text or a URL. |
 
