@@ -33,11 +33,11 @@ My name is Arthur Cluet and I am a student in an engineering school [(ESILV)](ht
 
 |       |  |
 | ----------- | ----------- |
-| Languages      | `Python` `JavaScript` `C++` `C#` `Java` `VBA` `R` |
-| Frameworks/librairies   | `React` `numpy` `pandas` `jQuery` |
-| Databases | `SQL` `NoSQL` `MongoDB` |
-| Text formatting | `LaTeX` `Markdown` |
-| Other | `Git` `Linux` |
+| Languages      | <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white" /> <img alt="C#" src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp&logoColor=white" /> <img alt="C++" src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" /> <img alt="VBA" src="https://img.shields.io/badge/-VBA-217346?style=flat-square&logo=microsoftexcel&logoColor=white" /> <img alt="R" src="https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white" /> |
+| Frameworks/librairies   | <img src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" /> <img alt="numpy" src="https://img.shields.io/badge/-numpy-4A73C9?style=flat-square&logo=numpy&logoColor=white" /> <img alt="pandas" src="https://img.shields.io/badge/-pandas-130754?style=flat-square&logo=pandas&logoColor=white"> <img alt="jQuery" src="https://img.shields.io/badge/-jQuery-1264A5?style=flat-square&logo=jquery&logoColor=white" /> |
+| Databases | <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" /> <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" /> |
+| Text formatting | <img alt="LaTeX" src="https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=latex&logoColor=white" /> <img alt="Markdown" src="https://img.shields.io/badge/-Markdown-black?style=flat-square&logo=markdown&logoColor=white" /> |
+| Other | <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" /> <img alt="Linux" src="https://img.shields.io/badge/-Linux-yellow?style=flat-square&logo=linux&logoColor=white" /> <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" /> |
 
 ### Projects 🌟
 
