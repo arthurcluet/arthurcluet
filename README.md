@@ -47,6 +47,7 @@ My name is Arthur Cluet and I am a student in an engineering school [(ESILV)](ht
 | `C++` | [Option Pricer](https://github.com/arthurcluet/options-pricer) | Object-oriented option pricer (Black-Scholes/CRR model implementation). |
 | `C#` | [Minesweeper](https://github.com/arthurcluet/minesweeper) | C# implementation of the minesweeper game. |
 | `C#` | [Images Editing](https://github.com/arthurcluet/images-editing-project) | Second year academic project in C# including image editing in Bitmap format, and the creation of QR codes containing text or a URL. |
+| `LaTeX` | [Quantum Computing](https://github.com/RostaneF/Quantum_computing-191/blob/main/Quantum_Computing_191.pdf) | Research and writing of a popularization paper on Quantum Computing for a trading team of [The Bank of New York Mellon](https://www.bnymellon.com). |
 
 All my programming projects can be found in the `Repositories` tab above.
 
