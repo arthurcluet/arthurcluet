@@ -32,7 +32,7 @@ My name is Arthur Cluet and I am a student in an engineering school [(ESILV)](ht
 
 > [**École Supérieure d'Ingénieurs Léonard-de-Vinci (ESILV)**](https://www.esilv.fr)
 > <br />
-> _Major in financial engineering_
+> _Major in data & artificial intelligence_
 > <ul>
 > <li>Object-Oriented Programming, git, Linux, Python, C++, C#, R</li>
 > <li>Data Science, AI, Machine Learning, MySQL Databases</li>
