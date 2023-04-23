@@ -26,6 +26,7 @@ My name is Arthur Cluet and I am a student in an engineering school [(ESILV)](ht
 2. [Programming Skills 🛠](#programming-skills-)
 3. [Projects 🌟](#projects-)
 
+---
 
 ### Education 🎓
 
@@ -45,7 +46,6 @@ My name is Arthur Cluet and I am a student in an engineering school [(ESILV)](ht
 > <li>Object-Oriented Programming, Data Structures, C++, Embedded Systems Architecture</li>
 > <li>Random Processes, Numerical Methods</li>
 > </ul>
-
 
 ### Programming skills 🛠
 
