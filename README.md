@@ -5,6 +5,8 @@
 
 ## About me 👋🏼
 
+<b>Engineering Student at ESILV</b>
+
 My name is Arthur Cluet and I am a student in an engineering school [(ESILV)](https://www.esilv.fr). I am passionate about computer science, new technologies and AI. I have good algorithmic skills and have a good knowledge in several programming languages. I am curious and I like to discover new technologies, frameworks and languages that bring new possibilities for developers. I also like to develop my skills by working on different projects, and you will find on my GitHub different academic or personal projects I worked on. Thank you for your visit!
 
 <a href="mailto:a.cluet@live.fr">
