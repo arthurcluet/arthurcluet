@@ -33,11 +33,12 @@
 
 > [**École Supérieure d'Ingénieurs Léonard-de-Vinci (ESILV)**](https://www.esilv.fr)
 > <br />
-> _Major in data & artificial intelligence_
+> [_MSc Financial Engineering_](https://www.esilv.fr/en/programmes/msc-financial-engineering/)
 > <ul>
-> <li>Object-Oriented Programming, git, Linux, Python, C++, C#, R</li>
-> <li>Data Science, AI, Machine Learning, MySQL Databases</li>
-> <li>Advanced statistics, advanced probability</li>
+> <li>Mathematics of Randomness</li>
+> <li>Pricing & Models</li>
+> <li>Data Analytics & Programming</li>
+> <li>Advanced Mathematics</li>
 > </ul>
 
 > [**Riga Technical University (RTU)**](https://www.rtu.lv/en)
